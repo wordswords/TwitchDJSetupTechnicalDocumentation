@@ -1,4 +1,4 @@
-# Twitch DJ Setup
+# Current DJDC Twitch DJ Setup
 
 ## Video Demo
 [![Watch the video](https://img.youtube.com/vi/4pt2nO5LPyc/0.jpg)](https://www.youtube.com/watch?v=4pt2nO5LPyc)
