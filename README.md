@@ -2,6 +2,8 @@
 
 This is my DJ setup for Twitch DJing. For more information on my DJing, see https://www.DJDavidCraddock.com
 
+To zoom in to any of the diagrams, right click on them and select 'open image in new tab'.
+
 ## Video Demo
 [![Watch the video](https://img.youtube.com/vi/4pt2nO5LPyc/0.jpg)](https://www.youtube.com/watch?v=4pt2nO5LPyc)
 
