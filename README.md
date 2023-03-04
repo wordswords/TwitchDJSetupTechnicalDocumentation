@@ -9,5 +9,5 @@
 ## DJing Setup Audio Flow Diagram
 ![alt text](DJDC%20Setup%20Audio%20Flow%20Diagram.drawio.png "DJing Setup Audio Flow Diagram")
 
-## Twitch Broadcast Diagram
-![alt text](DJDC%20Broadcast%20setup.drawio.png "Twitch Broadcast Diagram")
+## Twitch Broadcast Setup Diagram
+![alt text](DJDC%20Broadcast%20setup.drawio.png "Twitch Broadcast Setup Diagram")
