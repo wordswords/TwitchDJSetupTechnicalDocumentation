@@ -26,6 +26,7 @@ will be explained in another repo and linked to this
 * External VU Meter- Douk Audio 56 Bit Level Meter
 * Roland 707m - Roland DJ707m Serato Controller and 4 channel Advanced Hardware Mixer
 * Booth Monitor Speaker - Presonus Eris E3.5 Active Monitor (Single)
+* DJ headphones - Seinhausser HD 25 Plus 
 
 ## Twitch Broadcast Setup Diagram
 ![alt text](DJDC%20Broadcast%20setup.drawio.png "Twitch Broadcast Setup Diagram")
