@@ -6,7 +6,7 @@
 
 ## DJing Setup Data Wiring Diagram
 
-![alt text]("DJDC%20Broadcast%20setup.drawio.png" "Git Workflow Diagram")
+![alt text](DJDC%20Broadcast%20setup.drawio.png "Git Workflow Diagram")
 
 ## DJing Setup Audio Wiring Diagram
 
