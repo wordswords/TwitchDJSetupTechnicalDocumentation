@@ -6,9 +6,11 @@
 
 ## DJing Setup Data Wiring Diagram
 
-![alt text](DJDC%20Broadcast%20setup.drawio.png "Git Workflow Diagram")
 
 ## DJing Setup Audio Wiring Diagram
 
+![alt text](DJDC%20DJing%20Laptop%20Data%20Connectivity%20Diagram.drawio.png" Git Workflow Diagram")
+
 ## Twitch Broadcast Diagram
 
+![alt text](DJDC%20Broadcast%20setup.drawio.png "Git Workflow Diagram")
