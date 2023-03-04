@@ -32,3 +32,18 @@ will be explained in another repo and linked to this
 
 ## Twitch Broadcast Setup Diagram
 ![alt text](DJDC%20Broadcast%20setup.drawio.png "Twitch Broadcast Setup Diagram")
+
+## Software Used
+
+* Serato DJ Pro 3 with all extras
+* Resolume Avenue 7
+* Resolume Wire
+* Mixed in Key 10
+* NDI Tools (free)
+* Streamlabs OBS
+* Moobot
+ 
+## To come later
+
+* Monitors setup
+* Lighting setup
