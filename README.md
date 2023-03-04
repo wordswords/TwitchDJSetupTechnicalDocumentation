@@ -49,3 +49,4 @@ will be explained in another repo and linked to this
 
 * Monitors setup
 * Lighting setup
+* Extras (DVS records, cartridges etc)
