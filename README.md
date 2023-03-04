@@ -1,5 +1,19 @@
 # Current DJDC Twitch DJ Setup
 
+- [Current DJDC Twitch DJ Setup](#current-djdc-twitch-dj-setup)
+  * [Video Demo](#video-demo)
+  * [DJing Setup Data Wiring Diagram](#djing-setup-data-wiring-diagram)
+    + [Notes](#notes)
+  * [DJing Setup Audio Flow Diagram](#djing-setup-audio-flow-diagram)
+    + [Notes](#notes-1)
+  * [Twitch Broadcast Setup Diagram](#twitch-broadcast-setup-diagram)
+    + [Notes](#notes-2)
+  * [Software Used](#software-used)
+  * [To come later](#to-come-later)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 This is my DJ setup for Twitch DJing. For more information on my DJing, see https://www.DJDavidCraddock.com
 
 To zoom in to any of the diagrams, right click on them and select 'open image in new tab'.
