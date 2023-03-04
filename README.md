@@ -27,7 +27,7 @@ To zoom in to any of the diagrams, right click on them and select 'open image in
 * Guest mic - I have two.. standard mic with mic stand and pop shield, and a wireless headset mic
 * Hardware synthesiser patchbay - standard balanced patchbay.. wiring for synthesisers and music studio setup 
 will be explained in another repo and linked to this
-* External VU Meter- Douk Audio 56 Bit Level Meter
+* External VU Meter - Douk Audio 56 Bit Level Meter
 * Roland 707m - Roland DJ707m Serato Controller and 4 channel Advanced Hardware Mixer
 * Booth Monitor Speaker - Presonus Eris E3.5 Active Monitor (Single)
 * DJ headphones - Sennheiser HD 25 Plus 
